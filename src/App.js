@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Hi There!!!! DZIAŁAAAA!!!! REally?? REALLY!!!
+            I was chenged on the future branch!
           </p>
           <a
             className="App-link"
